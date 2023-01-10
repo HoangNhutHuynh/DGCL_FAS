@@ -1,0 +1,4 @@
+# define weight the test: number of snn...
+# add the define file o test
+# matrix the test: 3-3-4, gaussian, ..
+# Parameters scores
